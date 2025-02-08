@@ -1,0 +1,74 @@
+.innerbody{
+    margin: 4vw;
+    overflow: hidden;
+}
+
+.innerbody-title{
+    color: #000;
+    text-align: center;
+    font-size: 1.5vw;
+}
+
+#innerbody-img{
+    float: left;
+    max-width: 100% !important;
+    height: 20vw;
+    width: 20vw;
+    border: #0053a0 3px solid;
+    border-radius: 2rem;
+    box-shadow: 1px 1px 10px #000000;
+    margin-left: 10vw;
+}
+
+.innerbody-name{
+    float: left;
+    color: #000000;
+    align-self: center;
+    font-size: 1.6vw;
+    margin-left: 5vw;
+}
+
+#innerbody-desc1{
+    max-height: 100% !important;
+    max-width: 50% !important;
+    color: #000000;
+    float: right;
+    font-size: 1.5vw;
+    text-align: justify;
+}
+
+#innerbody-desc2{
+    padding-top: 35vw;
+    max-height: 100% !important;
+    max-width: 100% !important;
+    font-size: 1.5vw;
+    text-align: justify;
+}
+
+.innerbody .innerbody-hobbies h2, .innerbody .innerbody-prolang h2{
+    font-size: 2vw;
+}
+.innerbody .innerbody-hobbies ol li, .innerbody .innerbody-prolang ol li{
+    font-size: 1.5vw;
+}
+.innerbody-hobbies{
+    max-height: 100% !important;
+    max-width: 50% !important;
+    float: left ;
+}
+.innerbody-prolang{
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

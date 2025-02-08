@@ -1,0 +1,47 @@
+.innerbody{
+    margin: 4vw;
+    overflow: hidden;
+}
+.innerbody-title{
+    color: #000;
+    text-align: center;
+    font-size: 1.5vw;
+}
+
+.innerbody .innerbody-sociomed h2{
+    font-size: 2vw;
+}
+.inerbody-sociomed{
+    padding-top: 20vw;
+}
+.innerbody-desc1{
+    max-height: 100% !important;
+    max-width: 100% !important;
+    font-size: 1.5vw;
+    text-align: justify;
+}
+
+.innerbody-sociomed h3{
+    display: inline-block;
+    font-size: 2vw;
+}
+.innerbody-sociomed li{
+    padding: none !important;
+}
+#sociomed-btn{
+    max-width: 100% !important;
+    max-height: 100% !important;
+    height: 3vw;
+    width: 12vw;
+    font-size: 1.3vw;
+    border-radius: .8rem;
+    border: #000000 1px solid;
+    box-shadow: 1px 1px 2px #000000;
+    background-color: #0053a0;
+    color: #ffffff;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
+#sociomed-btn:hover{
+    background-color: #04AA6D;
+}
